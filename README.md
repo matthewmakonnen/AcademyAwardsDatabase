@@ -24,8 +24,6 @@
 
 ### References
 
-INST 326 object-oriented programming. (n.d.). https://umd-ischool-inst326.github.io/inst326-public/index.html. 
-
 A preeminent public research university. University of Maryland. (n.d.). https://www.umd.edu/. 
 
 Sheehan, P. (2021, January 15). Tyler Perry Joins STAR-STUDDED roster of Honorary Oscars recipients: See full list of special Academy awards winners. GoldDerby. https://www.goldderby.com/feature/honorary-oscars-list-hersholt-thalberg-special-academy-awards-1203983597/. 
